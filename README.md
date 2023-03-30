@@ -19,9 +19,9 @@ This script is intended to be used only with your own EPUB files, and should not
 1. Clone this repository to your local machine.
 2. Install the required libraries listed above.
 3. Place your EPUB files in a directory on your local machine.
-4. Modify the `books_dir` variable in `create_dataset.py` to point to the directory containing your EPUB files.
-5. Run the `create_dataset.py` script using the command `python create_dataset.py`.
-6. The script will create a new file called `books_text.csv` in the same directory as `create_dataset.py`. This file will contain the text extracted from the EPUB files.
+4. Modify the `books_dir` variable in `epub-scriptt.py` to point to the directory containing your EPUB files.
+5. Run the `epub-scriptt.py` script using the command `python epub-scriptt.py`.
+6. The script will create a new file called `books_text.csv` in the same directory as `epub-scriptt.py`. This file will contain the text extracted from the EPUB files.
 
 ## Contributing
 
