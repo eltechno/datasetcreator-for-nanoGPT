@@ -2,6 +2,12 @@
 
 This is a Python script that extracts text from one or more EPUB files and writes the text to a CSV file, which can be used to train a language model like NanoGPT.
 
+
+## Disclaimer
+
+This script is intended to be used only with your own EPUB files, and should not be used to extract text from copyrighted material without permission from the owner. The creator of this script is not responsible for any misuse or legal issues that may arise from using this script to extract text from copyrighted material without permission.
+
+
 ## Requirements
 
 * Python 3.6 or later
